@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d134573-01e4-44cc-aa77-a43162d997c9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VqVrHM0mWGFoTOIddCqIoCRzYM" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ProjetSupervise" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CentreMeuilleurNbr">
+    <configuration name="CentreAlea10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.CentreAlea10" />
+      <module name="ProjetNonSupervise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CentreMeuilleurNbr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.CentreMeuilleurNbr" />
+      <module name="ProjetNonSupervise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MillePts1D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.MillePts1D" />
+      <module name="ProjetNonSupervise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriParCouleur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="partie1.TriParCouleur" />
+      <module name="ProjetNonSupervise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="partie1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriPourImg2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.TriPourImg2" />
+      <module name="ProjetNonSupervise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CentreMeuilleurNbr" />
+        <item itemvalue="Application.MillePts1D" />
+        <item itemvalue="Application.TriParCouleur" />
+        <item itemvalue="Application.TriPourImg2" />
+        <item itemvalue="Application.CentreAlea10" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d134573-01e4-44cc-aa77-a43162d997c9" name="Default Changelist" comment="" />
+      <created>1577980808204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577980808204</updated>
+      <workItem from="1577980821954" duration="1787000" />
+      <workItem from="1577984323837" duration="8180000" />
+      <workItem from="1578052264031" duration="58000" />
+      <workItem from="1578054278173" duration="1418000" />
+      <workItem from="1578066383411" duration="10493000" />
+      <workItem from="1578131025544" duration="5183000" />
+      <workItem from="1578137124894" duration="3001000" />
+      <workItem from="1578147997868" duration="1689000" />
+      <workItem from="1578152890978" duration="17532000" />
+      <workItem from="1578236440118" duration="9441000" />
+      <workItem from="1578248659035" duration="4152000" />
+      <workItem from="1578252944976" duration="1120000" />
+      <workItem from="1578254083282" duration="1160000" />
+      <workItem from="1578255259749" duration="2927000" />
+      <workItem from="1578260223152" duration="428000" />
+      <workItem from="1578260684872" duration="3618000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
